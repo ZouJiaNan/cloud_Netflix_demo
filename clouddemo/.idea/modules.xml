@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/API/API.iml" filepath="$PROJECT_DIR$/API/API.iml" />
+      <module fileurl="file://$PROJECT_DIR$/clouddemo.iml" filepath="$PROJECT_DIR$/clouddemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-client-3355/config-client.iml" filepath="$PROJECT_DIR$/config-client-3355/config-client.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-client-3366/config-client-3366.iml" filepath="$PROJECT_DIR$/config-client-3366/config-client-3366.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-server/config-server.iml" filepath="$PROJECT_DIR$/config-server/config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/consumer-consul-order-80/consumer-consul-order-80.iml" filepath="$PROJECT_DIR$/consumer-consul-order-80/consumer-consul-order-80.iml" />
+      <module fileurl="file://$PROJECT_DIR$/consumer-feigin-order-80/consumer-feigin-order-80.iml" filepath="$PROJECT_DIR$/consumer-feigin-order-80/consumer-feigin-order-80.iml" />
+      <module fileurl="file://$PROJECT_DIR$/consumer-hystrix-order-80/consumer-hystrix-order-80.iml" filepath="$PROJECT_DIR$/consumer-hystrix-order-80/consumer-hystrix-order-80.iml" />
+      <module fileurl="file://$PROJECT_DIR$/consumer-order-80/consumer-order-80.iml" filepath="$PROJECT_DIR$/consumer-order-80/consumer-order-80.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-7001/eureka-7001.iml" filepath="$PROJECT_DIR$/eureka-7001/eureka-7001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-7002/eureka-7002.iml" filepath="$PROJECT_DIR$/eureka-7002/eureka-7002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gateway-9527/gateway-9527.iml" filepath="$PROJECT_DIR$/gateway-9527/gateway-9527.iml" />
+      <module fileurl="file://$PROJECT_DIR$/provider-payment-8001/provider-payment-8001.iml" filepath="$PROJECT_DIR$/provider-payment-8001/provider-payment-8001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/provider-payment-8002/provider-payment-8002.iml" filepath="$PROJECT_DIR$/provider-payment-8002/provider-payment-8002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/provider-payment-8003/provider-payment-8003.iml" filepath="$PROJECT_DIR$/provider-payment-8003/provider-payment-8003.iml" />
+      <module fileurl="file://$PROJECT_DIR$/provider-payment-hystrix-8004/provider-payment-hystrix-8004.iml" filepath="$PROJECT_DIR$/provider-payment-hystrix-8004/provider-payment-hystrix-8004.iml" />
+      <module fileurl="file://$PROJECT_DIR$/stream-rabbit-provider-8801/stream-rabbit-provider-8801.iml" filepath="$PROJECT_DIR$/stream-rabbit-provider-8801/stream-rabbit-provider-8801.iml" />
+    </modules>
+  </component>
+</project>

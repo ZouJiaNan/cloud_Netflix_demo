@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="consumer-hystrix-order-80" />
+        <module name="provider-payment-9001" />
+        <module name="config-server" />
+        <module name="consumer-order-80" />
+        <module name="provider-payment-8003" />
+        <module name="provider-payment-8002" />
+        <module name="provider-payment-8001" />
+        <module name="consumer-feigin-order-80" />
+        <module name="eureka7002" />
+        <module name="stream-rabbit-provider-8801" />
+        <module name="eureka-7003" />
+        <module name="config-client-3366" />
+        <module name="config-client-3355" />
+        <module name="eureka-7002" />
+        <module name="config-client" />
+        <module name="API" />
+        <module name="consumer-consul-order-80" />
+        <module name="eureka-7001" />
+        <module name="provider-payment-hystrix-8004" />
+        <module name="gateway-9527" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="API" target="1.8" />
+      <module name="clouddemo" target="1.8" />
+      <module name="config-client" target="1.8" />
+      <module name="config-client-3355" target="1.8" />
+      <module name="config-client-3366" target="1.8" />
+      <module name="config-server" target="1.8" />
+      <module name="consumer-consul-order-80" target="1.8" />
+      <module name="consumer-feigin-order-80" target="1.8" />
+      <module name="consumer-hystrix-order-80" target="1.8" />
+      <module name="consumer-order-80" target="1.8" />
+      <module name="eureka-7001" target="1.8" />
+      <module name="eureka-7002" target="1.8" />
+      <module name="eureka-7003" target="1.8" />
+      <module name="eureka7002" target="1.8" />
+      <module name="gateway-9527" target="1.8" />
+      <module name="provider-payment-8001" target="1.8" />
+      <module name="provider-payment-8002" target="1.8" />
+      <module name="provider-payment-8003" target="1.8" />
+      <module name="provider-payment-8004" target="1.8" />
+      <module name="provider-payment-9001" target="1.8" />
+      <module name="provider-payment-hystrix-8004" target="1.8" />
+      <module name="stream-rabbit-provider-8801" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="clouddemo" options="" />
+      <module name="provider-payment-8001" options="" />
+    </option>
+  </component>
+</project>

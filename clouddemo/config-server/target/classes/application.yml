@@ -1,0 +1,35 @@
+server:
+  port: 3344
+spring:
+  application:
+    name: config-server
+  cloud:
+    config:
+      server:
+        git:
+          #仓库地址
+          uri: https://github.com/ZouJiaNan/springcloud-config.git
+          #搜索路径
+          search-paths:
+            - springcloud-config
+          username: 2512526610@qq.com
+          password: zjn2512526610
+      #读取分支
+      label: master
+  #rabbitmq配置
+  rabbitmq:
+    host: 127.0.0.1
+    port: 5672
+    username: guest
+    password: guest
+#暴露bus刷新配置的端点
+management:
+  endpoints:
+    web:
+      exposure:
+        include: 'bus-refresh'
+eureka:
+  client:
+    service-url:
+      defaultZone: http://127.0.0.1:7001/eureka/
+
